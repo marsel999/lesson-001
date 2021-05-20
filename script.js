@@ -9,4 +9,12 @@ console.log(a % b);
 
 st = Math.pow(2, 10)
 
-console.log(st)
+console.log(st);
+
+// 3 задание
+
+let c = 1;
+let d = 2;
+let e = "белых медведей"
+
+console.log(c + (d + e));
