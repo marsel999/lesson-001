@@ -15,7 +15,7 @@ console.log(st);
 
 let c = 1;
 let d = 2;
-let e = "белых медведей"
+let e = " белых медведей"
 
 console.log(c + (d + e));
 
