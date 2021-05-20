@@ -25,3 +25,9 @@ let f = 5;
 let j = 10; 
 let h ;  // h = ++f + j--; надо -- подставить перед перменной j
 console.log(h = ++f + --j)
+
+// 5 задание
+
+const x = 15 * (4 + 25 - 55);
+
+console.log(x);
