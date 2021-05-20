@@ -51,3 +51,15 @@ let V = P * ((dC / 2) ** 2) * heightC;
 
 console.log(V)
 
+// 3 задание
+
+let sum = 2000000;
+let p = 0.1; // 10% = 0,1
+let years = 60; // 5 лет * 12месю = 60
+let perepl = sum * ((60 + 1) / 2) * (p / 100)
+
+console.log(perepl);
+
+
+
+
