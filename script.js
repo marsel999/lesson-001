@@ -31,3 +31,14 @@ console.log(h = ++f + --j)
 const x = 15 * (4 + 25 - 55);
 
 console.log(x);
+
+//Дополнительные задания 
+
+// 1 задание
+
+let height = 23;
+let width = 10;
+
+let S = width * height;
+console.log(S);
+
