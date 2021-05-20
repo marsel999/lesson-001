@@ -42,3 +42,12 @@ let width = 10;
 let S = width * height;
 console.log(S);
 
+// 2 задание 
+
+let heightC = 10;
+let dC = 4;
+let P = 3.14;
+let V = P * ((dC / 2) ** 2) * heightC;
+
+console.log(V)
+
